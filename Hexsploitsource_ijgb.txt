@@ -1,8 +1,8 @@
 
-- gg.antiv2 better leaked by flanch
+Working on an external /eR5YzGKXxS
 
 -- change this linoria ui 
-    repo = 'https://raw.githubusercontent.com/kachhow/ijgb/refs/heads/main/Hexsploitsource_ijgb.txt'
+    repo = 'https://raw.githubusercontent.com/kachhow/ijgb/refs/heads/main/'
     
 
     Library = loadstring(game:HttpGet(repo .. 'UIlib.lua'))()
